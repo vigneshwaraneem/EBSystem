@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Home-Electricit Billing System</title>
+    <link rel="icon" type="image/x-icon" href="image/mchat logo2.jpg">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+<body>
+    <div class="header">
+    <div class="head">
+    <img src="image/mchat logo2.jpg" alt="logo" width="50px" height="50px"></div>
+    <div class="text">Electricit Billing System</div>
+    <div><a href="index.html">home</a></div></div><br>
+	<br><br><center><div class="table"><form action="userBill" method="post">
+        <table border="body">
+             <tr><td><br><center>Customer Bill Pay</center><br><br>
+                <table>
+                    <tr><td>Service No</td><td><input type="text" name="serviceNo" id="serviceNo"  cols="30" rows="10" placeholder="Service No"></input></td></tr>
+                    <tr><td></td><td><center><button type="submit" name="submit" value="billSearch">Search</button></center></td></tr>
+                    <tr><td>Amount</td><td><input type="text" name="amountid" id="amountid" placeholder="Total amount"></td></tr>
+                </table>
+                <br><center><button type="submit" name="submit" value="billPay">pay</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button type="reset">reset</button></form>
+                <br><br><br></center></td></tr>
+        </table>
+    </div></center>    
+    <script>function getURLParameter(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+        const paramValue = getURLParameter('amount');
+        document.getElementById('amountid').value = paramValue;
+        const paramValue2 = getURLParameter('server');
+        document.getElementById('serviceNo').value = paramValue2;
+</script>
+</body>
+</html>
