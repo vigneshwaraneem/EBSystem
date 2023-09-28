@@ -2,10 +2,9 @@
 
 # Servlet Electricity Bill System
 
-![Java](https://img.shields.io/badge/Java-8%2B-blue)
-![Servlet](https://img.shields.io/badge/Servlet-3.1%2B-yellow)
-![Eclipse](https://img.shields.io/badge/Eclipse-4.0%2B-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Java](https://img.shields.io/badge/Java-20%2B-blue)
+![Servlet](https://img.shields.io/badge/Servlet-6.0%2B-yellow)
+![Eclipse](https://img.shields.io/badge/Eclipse-4.29%2B-orange)
 
 ## Table of Contents
 
