@@ -61,7 +61,14 @@ Once the application is deployed:
 
 ## Screenshots
 
-Include screenshots of your application here to give users a visual overview of its functionality.
+![Screenshot from 2023-09-28 14-36-13](https://github.com/vigneshwaraneem/EBSystem/assets/145448980/5e1acb5c-f2bf-43ae-8062-50f036710884)
+![Screenshot from 2023-09-28 14-36-01](https://github.com/vigneshwaraneem/EBSystem/assets/145448980/98d82838-ed63-47a6-b7b2-c02080fbc5a6)
+![Screenshot from 2023-09-28 14-35-41](https://github.com/vigneshwaraneem/EBSystem/assets/145448980/4814f61a-f55a-4d12-85aa-00355c0b9c14)
+![Screenshot from 2023-09-28 14-35-28](https://github.com/vigneshwaraneem/EBSystem/assets/145448980/c012d3ca-7ebf-477a-a56d-6e49be325f3b)
+![Screenshot from 2023-09-28 14-35-18](https://github.com/vigneshwaraneem/EBSystem/assets/145448980/568d3b81-5d50-402b-8d69-189dca597d62)
+![Screenshot from 2023-09-28 14-34-48](https://github.com/vigneshwaraneem/EBSystem/assets/145448980/39f20a40-25ca-4bde-aa91-66469ba8346a)
+![Screenshot from 2023-09-28 14-34-29](https://github.com/vigneshwaraneem/EBSystem/assets/145448980/49550ad7-7b2a-40a6-b5d9-555c49a302e2)
+
 
 ## Contributing
 
