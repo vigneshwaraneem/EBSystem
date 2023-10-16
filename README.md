@@ -44,7 +44,7 @@ Before you get started, ensure you have the following prerequisites installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/electricity-bill-system.git
+   git clone https://github.com/vigneshwaraneem/electricity-bill-system.git
 
 1. Import the project into Eclipse.
 2. Configure the project settings if necessary.
