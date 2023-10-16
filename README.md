@@ -35,7 +35,7 @@ The Servlet Electricity Bill System is a web-based application developed using J
 
 Before you get started, ensure you have the following prerequisites installed:
 
-- Java Development Kit (JDK) 8 or later
+- Java Development Kit (JDK) 20 or later
 - Eclipse IDE 4.0 or later
 - Apache Tomcat 8.0 or later
 
@@ -83,7 +83,7 @@ Submit a pull request.
 
 Vigneshwaran
 vigneshwaraneem@gmail.com
-Project Link: https://github.com/yourusername/electricity-bill-system
+Project Link: https://github.com/vigneshwaraneem/electricity-bill-system
 
 
 Make sure to replace `Vigneshwaran`, `vigneshwaraneem`, `vigneshwaraneem@gmail.com`, and `https://github.com/vigneshwaraneem/EBSystem` with your actual information and project details.
